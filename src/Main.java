@@ -21,6 +21,6 @@ public class Main {
         //Сортируем
         Collections.sort(newList);
         //выводим на экран
-        System.out.println(newList);
+        System.out.println("новый список" + newList);
     }
 }
